@@ -1,0 +1,10 @@
+﻿OMGHAI!
+-------- day 0 --------
+name, sellIn, quality
+
+-------- day 1 --------
+name, sellIn, quality
+
+-------- day 2 --------
+name, sellIn, quality
+

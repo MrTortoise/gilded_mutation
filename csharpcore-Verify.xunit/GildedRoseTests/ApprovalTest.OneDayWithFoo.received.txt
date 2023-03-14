@@ -1,0 +1,13 @@
+﻿OMGHAI!
+-------- day 0 --------
+name, sellIn, quality
+foo, 0, 0
+Stryker was here!
+-------- day 1 --------
+name, sellIn, quality
+foo, -1, 0
+Stryker was here!
+-------- day 2 --------
+name, sellIn, quality
+foo, -2, 0
+Stryker was here!
